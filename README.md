@@ -16,6 +16,12 @@ Prior to using this app, please make sure you have the _Ruby_ and _Ruby On Rails
 
 ## Getting Started
 
+Use following command to install all the dependencies
+
+```
+bundle install
+```
+
 There is no front-end for this app. So, the user will have to use Rails console to interact with the application.
 
 ### Step 1
